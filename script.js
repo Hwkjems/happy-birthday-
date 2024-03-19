@@ -1,0 +1,1 @@
+alert("CLOSE YOUR EYES AND CLICK OK!!")
